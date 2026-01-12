@@ -31,10 +31,11 @@ Scaled delivery execution across multiple engineering teams and shared infrastru
 
 ---
 
-## 📋 Release & Governance Templates
+### 📄 Release & Governance Templates
 
-- **[Release Readiness Checklist](templates/add-release-readiness-checklist.md)**  
-Used as part of executive go/no-go reviews and cross-team dependency management.
+- [Release Readiness Checklist](templates/add-release-readiness-checklist.md)  
+  Used as part of executive go/no-go reviews and cross-team dependency management.
+
 
 
 ---
