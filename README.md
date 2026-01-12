@@ -47,6 +47,9 @@ Reduced deployment risk by **40%** and reclaimed **$600K–$800K** annually in l
 - SAP S/4HANA, ITSM platforms
 - Cloud & platform ecosystems (program-level ownership)
 
+## 📋 Release & Governance Templates
+
+- [Release Readiness Checklist](templates/add-release-readiness-checklist.md)
 ---
 
 ## 📫 Connect
