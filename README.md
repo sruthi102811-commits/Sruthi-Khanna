@@ -7,6 +7,8 @@ Platform • Infrastructure • Enterprise Systems
 
 ## 🚀 Portfolio Overview
 
+**Scope:** Led cross-functional programs spanning 8–15 teams, multi-quarter roadmaps, regulated environments, and mission-critical platforms.
+
 This repository showcases my work leading large-scale, cross-functional technical programs focused on platform delivery, enterprise transformation, and release governance.
 
 The artifacts below represent how I operate as a Senior / Staff-level TPM — driving clarity, managing risk, and delivering outcomes across complex environments.
@@ -16,10 +18,13 @@ The artifacts below represent how I operate as a Senior / Staff-level TPM — dr
 ## 📌 Case Studies
 
 - **[Enterprise Platform Transformation](case-studies/enterprise-platform-transformation.md)**  
-  Multi-quarter modernization across legacy and modern platforms with strict uptime and regulatory requirements.
+Standardized release readiness and governance across teams, reducing late-stage risk, minimizing executive escalations, and increasing confidence in go/no-go decisions.
+
+
 
 - **[Release Governance & Predictable Delivery](case-studies/release-governance.md)**  
-  Standardized release readiness, reduced late-stage risk, and improved executive confidence.
+Scaled delivery execution across multiple engineering teams and shared infrastructure, improving predictability, dependency management, and on-time delivery.
+
 
 - **[Scaling Delivery Across Teams](case-studies/scaling-delivery.md)**  
   Improved delivery predictability across multiple engineering teams and shared infrastructure.
@@ -29,7 +34,8 @@ The artifacts below represent how I operate as a Senior / Staff-level TPM — dr
 ## 📋 Release & Governance Templates
 
 - **[Release Readiness Checklist](templates/add-release-readiness-checklist.md)**  
-  A practical checklist used to assess go/no-go readiness, dependencies, risks, and executive sign-off.
+Used as part of executive go/no-go reviews and cross-team dependency management.
+
 
 ---
 
