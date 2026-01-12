@@ -39,7 +39,7 @@ Used as part of executive go/no-go reviews and cross-team dependency management.
 
 ---
 
-##🛠️ Tools & Ecosystems
+🛠️ Tools & Ecosystems
 
 - GitHub (program artifacts & documentation)
 - Jira, Confluence, Azure DevOps
