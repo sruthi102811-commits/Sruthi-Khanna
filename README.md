@@ -39,12 +39,13 @@ Used as part of executive go/no-go reviews and cross-team dependency management.
 
 ---
 
-## 🛠 Tools & Ecosystems
+##🛠️ Tools & Ecosystems
 
-- Jira, Confluence, Azure DevOps  
-- GitHub (program artifacts & documentation)  
-- SAP S/4HANA, ITSM platforms  
+- GitHub (program artifacts & documentation)
+- Jira, Confluence, Azure DevOps
 - Cloud & platform ecosystems
+- SAP S/4HANA, ITSM platforms
+
 
 ---
 
