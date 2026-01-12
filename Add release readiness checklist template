@@ -1,1 +1,95 @@
+# Release Readiness Checklist
+
+This checklist ensures predictable, low-risk releases across complex, cross-functional environments.
+
+---
+
+## 1. Release Overview
+
+- **Release Name / ID:**
+- **Target Release Date:**
+- **Release Type:** (Feature / Platform / Infra / Hotfix)
+- **Business Owner:**
+- **Technical Owner:**
+- **Rollback Owner:**
+
+---
+
+## 2. Scope Confirmation
+
+- [ ] Final scope approved by Product & Engineering
+- [ ] All in-scope features merged to release branch
+- [ ] No unapproved scope changes pending
+- [ ] Dependencies confirmed and documented
+
+---
+
+## 3. Engineering Readiness
+
+- [ ] Code freeze completed
+- [ ] All PRs reviewed and approved
+- [ ] Feature flags validated (on/off scenarios tested)
+- [ ] Build and deployment pipelines green
+- [ ] Rollback plan documented and validated
+
+---
+
+## 4. Quality & Testing
+
+- [ ] Functional testing completed
+- [ ] Regression testing completed
+- [ ] Performance testing completed (if applicable)
+- [ ] UAT sign-off received
+- [ ] Known issues documented with mitigation
+
+---
+
+## 5. Security & Compliance
+
+- [ ] Security scans completed
+- [ ] No critical or high vulnerabilities open
+- [ ] Compliance approvals obtained (SOX / Audit / Regulatory if applicable)
+- [ ] Data privacy checks completed
+
+---
+
+## 6. Operational Readiness
+
+- [ ] Monitoring dashboards configured
+- [ ] Alerts validated
+- [ ] Runbooks updated
+- [ ] On-call coverage confirmed
+- [ ] Incident response plan reviewed
+
+---
+
+## 7. Go / No-Go Decision
+
+**Release Status:**
+- 🟢 Go
+- 🟡 Conditional Go
+- 🔴 No-Go
+
+**Decision Notes:**
+- Risks:
+- Mitigations:
+- Final Approver:
+
+---
+
+## 8. Post-Release Validation
+
+- [ ] Production smoke tests passed
+- [ ] KPIs / SLIs stable
+- [ ] No Sev-1 / Sev-2 incidents
+- [ ] Stakeholders notified
+- [ ] Post-release review scheduled
+
+---
+
+## 9. Lessons Learned (Post-Release)
+
+- What went well:
+- What can improve:
+- Action items for next release:
 
