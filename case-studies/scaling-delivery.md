@@ -40,8 +40,11 @@ Platform program spanning 8–15 engineering and partner teams delivering interc
 - Improved cross-team collaboration and execution focus
 
 ---
+## Scaled Delivery Operating Model
 
-![Scaled Delivery Operating Model](/assets/diagrams/scaling-delivery-operating-model.svg)
+<img src="/assets/diagrams/scaling-delivery-operating-model.svg"
+     alt="Scaled Delivery Operating Model"
+     width="900">
 
 
 
