@@ -1,7 +1,12 @@
-# Sruthi Khanna
 
-**Senior Technical Program Manager**  
-Platform • Infrastructure • Enterprise Systems
+# Sruthi Khanna — Technical Program Management Portfolio
+
+This portfolio showcases enterprise-scale Technical Program Management across digital transformation, platform delivery, release governance, and cross-functional execution. The artifacts reflect ownership of complex programs with executive accountability, multi-org dependency management, and delivery rigor across modern enterprise systems.
+
+🔒 Designed to reflect **Staff / Principal TPM operating scope** in modern enterprise environments.
+
+---
+
 
 ---
 
