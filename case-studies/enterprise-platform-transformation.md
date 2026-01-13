@@ -62,82 +62,9 @@ Multi-quarter enterprise transformation spanning legacy systems, modern platform
 graph LR
 A[Fragmented Team Releases] --> B[Late Risk Discovery]
 B --> C[Executive Escalations]
-C --> D[Low Go/No-Go Confidence]
+C --> D[Low Go-No-Go Confidence]
 
 D --> E[Standardized Readiness Signals]
-E --> F[Automated Risk & Compliance Gates]
-F --> G[Predictable Go/No-Go Decisions]
+E --> F[Automated Risk and Compliance Gates]
+F --> G[Predictable Go-No-Go Decisions]
 G --> H[Executive Confidence Restored]
-
-
-✅ No labels  
-✅ No special characters  
-✅ GitHub-safe  
-✅ Renders 100%
-
----
-
-## 🧠 OPTIONAL (If you want the word “Transformation” visible)
-
-Since labeled arrows aren’t supported, do this instead:
-
-```markdown
-**Transformation Phase**
-
-```mermaid
-graph LR
-D[Low Go/No-Go Confidence] --> E[Standardized Readiness Signals]
-E --> F[Automated Risk & Compliance Gates]
-F --> G[Predictable Go/No-Go Decisions]
-G --> H[Executive Confidence Restored]
-
-
-This is actually **cleaner and more executive-friendly**.
-
----
-
-## ✅ Mermaid Rules for GitHub (Save this)
-
-✔ Use `graph LR` or `flowchart TD`  
-❌ Do NOT use `|labels|` on arrows  
-❌ Do NOT use `pie`, `line`, `bar`  
-✔ Keep arrows simple: `-->`  
-✔ One diagram per fenced block  
-
----
-
-## 🟢 Final Result
-
-Once you paste the fixed version:
-- Red error box disappears
-- Diagram renders cleanly
-- Your page looks **principal-level and polished**
-
-If you want, next I can:
-- Fix **every diagram in one sweep**
-- Create a **Mermaid style guide** for the rest of your portfolio
-- Convert diagrams to **SVG images** (zero Mermaid issues forever)
-
-Just tell me what you want next.
-
-
-## Lessons Learned
-
-- Governance scales best when expressed as **shared signals**, not manual gates  
-- Audit-readiness is easiest when built into delivery workflows **from day one**  
-- Cross-team dependency visibility is the fastest way to reduce **late-stage risk**  
-- Executive confidence increases when **tradeoffs are explicit and measurable**
-
----
-
-### One Important Note
-
-This version **will render correctly on GitHub** because:
-
-- Each Mermaid diagram is wrapped in its own ` ```mermaid ` fenced block  
-- Only supported Mermaid types are used (`graph` and `flowchart`)  
-- Charts are represented as tables, which are **GitHub-safe and recruiter-friendly**
-
-
-
-
