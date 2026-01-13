@@ -1,7 +1,11 @@
 
 # Sruthi Khanna — Technical Program Management Portfolio
 
-This portfolio showcases enterprise-scale Technical Program Management across digital transformation, platform delivery, release governance, and cross-functional execution. The artifacts reflect ownership of complex programs with executive accountability, multi-org dependency management, and delivery rigor across modern enterprise systems.
+Portfolio demonstrating Principal-level Technical Program Management across enterprise transformation, platform delivery, and release governance.
+
+Includes artifacts covering executive-owned outcomes, cross-org dependency management, release readiness frameworks, risk mitigation, and operating-model evolution across complex systems.
+
+Representative of work delivered at enterprise scale, where accountability, delivery predictability, and business impact are non-negotiable.
 
 🔒 Designed to reflect **Staff / Principal TPM operating scope** in modern enterprise environments.
 
