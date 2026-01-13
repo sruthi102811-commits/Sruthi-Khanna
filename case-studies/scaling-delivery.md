@@ -42,9 +42,13 @@ Platform program spanning 8–15 engineering and partner teams delivering interc
 ---
 ## Scaled Delivery Operating Model
 
-<img src="/assets/diagrams/scaling-delivery-operating-model.svg"
-     alt="Scaled Delivery Operating Model"
-     width="900">
+<img
+  src="/assets/diagrams/scaling-delivery-operating-model.svg"
+  alt="Scaled Delivery Operating Model"
+  width="900"
+/>
+
+
 
 
 
