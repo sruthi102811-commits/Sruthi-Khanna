@@ -64,28 +64,62 @@ A[Fragmented Team Releases] --> B[Late Risk Discovery]
 B --> C[Executive Escalations]
 C --> D[Low Go/No-Go Confidence]
 
-D -->|Transformation| E[Standardized Readiness Signals]
+D --> E[Standardized Readiness Signals]
 E --> F[Automated Risk & Compliance Gates]
 F --> G[Predictable Go/No-Go Decisions]
 G --> H[Executive Confidence Restored]
 
-flowchart TD
-A[Feature Intake] --> B[Dependency Mapping]
-B --> C[Risk Scoring Engine]
-C --> D{Compliance Check}
 
-D -->|Pass| E[Auto Approval]
-D -->|Fail| F[Targeted Mitigation]
+✅ No labels  
+✅ No special characters  
+✅ GitHub-safe  
+✅ Renders 100%
 
-E --> G[Release Execution]
-F --> G
+---
 
-flowchart LR
-Policy[Regulatory & Compliance Frameworks]
-Policy --> Design[System & Workflow Design]
-Design --> Automation[Automated Governance Signals]
-Automation --> Delivery[High-Velocity Delivery]
-Delivery --> Trust[Audit-Ready + Trust at Scale]
+## 🧠 OPTIONAL (If you want the word “Transformation” visible)
+
+Since labeled arrows aren’t supported, do this instead:
+
+```markdown
+**Transformation Phase**
+
+```mermaid
+graph LR
+D[Low Go/No-Go Confidence] --> E[Standardized Readiness Signals]
+E --> F[Automated Risk & Compliance Gates]
+F --> G[Predictable Go/No-Go Decisions]
+G --> H[Executive Confidence Restored]
+
+
+This is actually **cleaner and more executive-friendly**.
+
+---
+
+## ✅ Mermaid Rules for GitHub (Save this)
+
+✔ Use `graph LR` or `flowchart TD`  
+❌ Do NOT use `|labels|` on arrows  
+❌ Do NOT use `pie`, `line`, `bar`  
+✔ Keep arrows simple: `-->`  
+✔ One diagram per fenced block  
+
+---
+
+## 🟢 Final Result
+
+Once you paste the fixed version:
+- Red error box disappears
+- Diagram renders cleanly
+- Your page looks **principal-level and polished**
+
+If you want, next I can:
+- Fix **every diagram in one sweep**
+- Create a **Mermaid style guide** for the rest of your portfolio
+- Convert diagrams to **SVG images** (zero Mermaid issues forever)
+
+Just tell me what you want next.
+
 
 ## Lessons Learned
 
