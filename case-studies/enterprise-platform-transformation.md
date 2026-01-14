@@ -40,18 +40,18 @@ Senior/Staff TPM owning the program end-to-end: strategy → operating model →
 - Program ownership at Staff/Principal scope
 ---
 
-## Transformation Flow (Before → After)
+## 📊 Program Signal: Before vs After
 
 ```mermaid
 graph LR
-A[Fragmented Team Releases] --> B[Late Risk Discovery]
-B --> C[Executive Escalations]
-C --> D[Low Go-No-Go Confidence]
+  A[Fragmented Team Releases] --> B[Late Risk Discovery]
+  B --> C[Executive Escalations]
+  C --> D[Low Go-No-Go Confidence]
 
-D --> E[Standardized Readiness Signals]
-E --> F[Automated Risk and Compliance Gates]
-F --> G[Predictable Go-No-Go Decisions]
-G --> H[Executive Confidence Restored]
+  D --> E[Standardized Readiness Signals]
+  E --> F[Automated Risk and Compliance Gates]
+  F --> G[Predictable Go-No-Go Decisions]
+  G --> H[Executive Confidence Restored]
 
 ### 📈 Outcome Metrics
 
