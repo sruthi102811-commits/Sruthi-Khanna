@@ -34,13 +34,27 @@ Senior/Staff TPM owning the program end-to-end: strategy → operating model →
 ## Program Signal: Before vs After
 
 ```mermaid
-graph LR
-  A[Fragmented Team Releases] --> B[Late Risk Discovery]
-  B --> C[Executive Escalations]
-  C --> D[Low Go-No-Go Confidence]
+flowchart TB
 
-  D --> E[Standardized Readiness Signals]
-  E --> F[Automated Risk and Compliance Gates]
-  F --> G[Predictable Go-No-Go Decisions]
-  G --> H[Executive Confidence Restored]
+  subgraph BEFORE["BEFORE (Fragmented / Escalation-Driven)"]
+    direction LR
+    B1[Teams release independently] --> B2[Dependencies hidden until late]
+    B2 --> B3[Late risk discovery in UAT/cutover]
+    B3 --> B4[Executive escalations]
+    B4 --> B5[Low Go/No-Go confidence]
+  end
+
+  I[TPM Intervention: Standardized readiness + governance]:::mid
+
+  subgraph AFTER["AFTER (Standardized / Predictable)"]
+    direction LR
+    A1[Unified readiness checklist + gates] --> A2[Dependency map + milestone alignment]
+    A2 --> A3[Early risk signals + mitigations]
+    A3 --> A4[Decision-ready exec updates]
+    A4 --> A5[Predictable Go/No-Go + fewer escalations]
+  end
+
+  BEFORE --> I --> AFTER
+
+  classDef mid fill:#f6f8fa,stroke:#57606a,stroke-width:1px,color:#24292f;
 
