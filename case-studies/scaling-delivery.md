@@ -23,11 +23,8 @@ Platform program spanning **8–15 engineering and partner teams** delivering in
 
 ## Scaled Delivery Operating Model
 
-<img
-  src="/assets/diagrams/scaling-delivery-operating-model.svg"
-  alt="Scaled Delivery Operating Model"
-  width="900"
-/>
+![Scaled Delivery Operating Model](../assets/diagrams/scaling-delivery-operating-model.svg)
+
 
 ## Results
 - **40% improvement in delivery predictability**
