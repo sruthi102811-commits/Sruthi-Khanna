@@ -21,6 +21,7 @@ Platform program spanning **8–15 engineering and partner teams** delivering in
 - Enabled teams to surface risks early and resolve blockers
 - Provided leadership with concise, decision-oriented updates
 
+---
 
 ## At-a-Glance
 
@@ -30,6 +31,7 @@ Platform program spanning **8–15 engineering and partner teams** delivering in
 | What I did | Built a scaled delivery operating model: intake → dependency mapping → risk signals → governance cadence |
 | Outcome | **+40% improvement in delivery predictability**, reduced leadership escalations, stronger execution focus |
 
+---
 
 ## Before vs After (Delivery Flow)
 
@@ -45,27 +47,3 @@ flowchart LR
   C2 --> D2[Governance Cadence]
   D2 --> E2[Predictable Delivery]
 
-xychart-beta
-  title "Delivery Predictability Improvement"
-  x-axis ["Before","After"]
-  y-axis "Predictability Score" 0 --> 100
-  bar [60, 84]
-
-## Key Metrics (GitHub-friendly)
-
-| Metric                         | Outcome |
-|--------------------------------|---------|
-| Delivery predictability        | +40%    |
-| Leadership escalations         | Reduced |
-| Cross-team alignment           | Improved |
-| Execution focus & throughput   | Improved |
-
-
-## Tools
-Jira, Confluence, Azure DevOps, executive dashboards
-
-## Lessons Learned
-- Scale requires **structure, transparency, and alignment** — not micromanagement
-- Shared signals outperform manual coordination
-- Clear ownership reduces escalation noise
-- Predictability increases executive confidence
