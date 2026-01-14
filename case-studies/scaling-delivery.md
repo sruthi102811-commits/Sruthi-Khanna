@@ -36,6 +36,8 @@ Platform program spanning **8–15 engineering and partner teams** delivering in
 | Cross-team alignment           | Improved |
 | Execution focus & throughput   | Improved |
 
+![Scaled Delivery Operating Model](../assets/scaling-delivery-operating-model.svg)
+
 ## Tools
 Jira, Confluence, Azure DevOps, executive dashboards
 
