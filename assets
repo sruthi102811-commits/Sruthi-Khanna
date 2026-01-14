@@ -1,3 +1,4 @@
-assets/
- └── diagrams/
-     └── scaling-delivery-operating-model.svg
+assets/diagrams/.keep
+keep
+Create assets/diagrams folders
+
