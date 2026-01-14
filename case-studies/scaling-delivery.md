@@ -30,34 +30,25 @@ Platform program spanning **8–15 engineering and partner teams** delivering in
 | What I did | Built a scaled delivery operating model: intake → dependency mapping → risk signals → governance cadence |
 | Outcome | **+40% improvement in delivery predictability**, reduced leadership escalations, stronger execution focus |
 
-## Scaled Delivery Operating Model (Diagram)
 
-<img
-  src="../assets/diagrams/scaling-delivery-operating-model.svg"
-  alt="Scaled Delivery Operating Model"
-  width="950"
-/>
-
----
-
-## Before vs After (Workflow View)
+## Before vs After (Delivery Flow)
 
 ```mermaid
 flowchart LR
-  A[Ad-hoc intake] --> B[Unclear ownership]
-  B --> C[Late risk discovery]
+  A[Ad-hoc Intake] --> B[Unclear Ownership]
+  B --> C[Late Risk Discovery]
   C --> D[Escalations]
-  D --> E[Missed dates / rework]
+  D --> E[Missed Milestones]
 
-  A2[Structured intake] --> B2[Clear RACI + ownership]
-  B2 --> C2[Early risk signals]
-  C2 --> D2[Governance cadence]
-  D2 --> E2[Predictable delivery]
+  A2[Structured Intake] --> B2[Clear Ownership]
+  B2 --> C2[Early Risk Signals]
+  C2 --> D2[Governance Cadence]
+  D2 --> E2[Predictable Delivery]
 
 xychart-beta
-  title "Delivery Predictability (Before vs After)"
+  title "Delivery Predictability Improvement"
   x-axis ["Before","After"]
-  y-axis "Predictability Score (relative)" 0 --> 100
+  y-axis "Predictability Score" 0 --> 100
   bar [60, 84]
 
 ## Key Metrics (GitHub-friendly)
