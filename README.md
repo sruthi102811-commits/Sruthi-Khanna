@@ -75,5 +75,3 @@ This repository reflects how I operate in real environments where delivery risk,
 - **Email:** Sruthi2116@yahoo.com  
 
 _Open to Senior & Staff Technical Program Manager roles._
-
-
