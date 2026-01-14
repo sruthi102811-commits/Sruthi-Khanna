@@ -15,7 +15,7 @@ Senior/Staff TPM owning the program end-to-end: strategy → operating model →
 ## What I Did (Concrete actions)
 1) **Standardized Release Readiness**
 - Defined a single readiness checklist covering testing, rollback, data validation, monitoring, and approvals
-- Made readiness criteria measurable and tied to the release gates
+- Made readiness criteria measurable and tied to release gates
 
 2) **Created Cross-Team Dependency Visibility**
 - Mapped dependencies across teams and infrastructure components
@@ -27,20 +27,11 @@ Senior/Staff TPM owning the program end-to-end: strategy → operating model →
 
 4) **Improved Audit Readiness**
 - Embedded compliance evidence collection into normal workflows
-- Reduced “last week before audit” scramble by making evidence capture continuous
+- Reduced last-minute audit scramble by making evidence capture continuous
 
-## Outcomes (What changed)
-- Readiness became consistent across teams, reducing late-stage surprises
-- Executive go/no-go decisions became faster and clearer (less debate, more signal)
-- Audit readiness improved by shifting evidence from manual/late to systematic/ongoing
-
-## What this demonstrates
-- Ability to operate in regulated, high-reliability environments
-- Governance that accelerates delivery rather than adding bureaucracy
-- Program ownership at Staff/Principal scope
 ---
 
-## 📊 Program Signal: Before vs After
+## Program Signal: Before vs After
 
 ```mermaid
 graph LR
@@ -53,10 +44,3 @@ graph LR
   F --> G[Predictable Go-No-Go Decisions]
   G --> H[Executive Confidence Restored]
 
-### 📈 Outcome Metrics
-
-- Late-stage release risk ↓ **45%**
-- Audit preparation effort ↓ **40–50%**
-- Go/No-Go decision confidence ↑ **significantly** (fewer deferred decisions)
-- Emergency release escalations ↓ **~35%**
-- Compliance gaps detected post-release ↓ **near zero**
